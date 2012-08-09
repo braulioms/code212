@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.php.project</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/php-project/1">
+<<<<<<< HEAD
             <name>code212</name>
+=======
+            <name>CodeIgniter212</name>
+>>>>>>> branch 'master' of https://github.com/braulioms/code212.git
         </data>
     </configuration>
 </project>
